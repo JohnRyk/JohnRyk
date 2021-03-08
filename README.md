@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=C&logoColor=white)<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnRyk&layout=compact&hide_border=true&theme=vue-dark" />
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnRyk&layout=compact&hide_border=true&theme=vue-dark" />
+![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-192133?style=flat-square&logo=Shell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
