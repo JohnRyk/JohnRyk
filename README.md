@@ -2,12 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnRyk&layout=compact&hide_border=true&theme=vue-dark" />
 
-![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-192133?style=flat-square&logo=Shell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logo=javascript&logoColor=white)
-![Powershell](https://img.shields.io/badge/-Powershell-192133?style=flat-square&logo=Powershell&logoColor=white)
+![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=C&logoColor=white)</br>
+![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)</br>
+![Shell](https://img.shields.io/badge/-Shell-192133?style=flat-square&logo=Shell&logoColor=white)</br>
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)</br>
+![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logo=javascript&logoColor=white)</br>
+![Powershell](https://img.shields.io/badge/-Powershell-192133?style=flat-square&logo=Powershell&logoColor=white)</br>
 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" align="left" width="32" title="python"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" align="left" width="32" title="python"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" width="32" title="python"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" align="left" width="32" title="python"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" align="left" width="32" title="python">
 
