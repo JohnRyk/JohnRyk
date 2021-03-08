@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋</br></br>
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnRyk&layout=compact&hide_border=true&theme=vue-dark" />
 
