@@ -7,7 +7,7 @@
 ![Shell](https://img.shields.io/badge/-Shell-192133?style=flat-square&logo=Shell&logoColor=white)</br>
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)</br>
 ![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logo=javascript&logoColor=white)</br>
-![Powershell](https://img.shields.io/badge/-Powershell-192133?style=flat-square&logo=Powershell&logoColor=white)</br>
+![Powershell](https://img.shields.io/badge/-Powershell-192133?style=flat-square&logo=Powershell&logoColor=white)</br></br></br>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JohnRyk&hide=contribs&include_all_commits=true&count_private-true&custom_title=JohnRyk's%20GitHub%20Stats&line_height=25&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
