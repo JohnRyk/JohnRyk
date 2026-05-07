@@ -9,16 +9,11 @@
 
 ### My Stack
 
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnRyk&layout=compact&hide_border=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JohnRyk&layout=compact&hide_border=true&theme=vue-dark" />
 
-<p align="right">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,go,js,linux,windows,docker,kubernetes,bash,kali&perline=12">
 </p>
-
-</br>
-</br>
-</br>
-</br>
 
 ---
 
